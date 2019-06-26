@@ -1,5 +1,5 @@
 {
-  "name": "datecom",
+  "name": "date-picker-app",
   "version": "1.0.0",
   "description": "date component for test ask",
   "main": "index.js",
@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "@types/angular": "^1.6.54",
+    "@types/moment": "^2.13.0",
     "@types/node": "^12.0.10",
     "moment": "^2.24.0"
   }
